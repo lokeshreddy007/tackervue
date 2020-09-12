@@ -1,0 +1,8 @@
+# Tracker Project Steps
+
+```php
+	
+	composer require laravel/ui
+	php artisan ui vue --auth
+
+```
